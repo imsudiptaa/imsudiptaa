@@ -32,7 +32,7 @@ Built a Learning app for deaf/mute person, convertion of sign-language to text/s
 ***
 
 
- 🪶<b>GSSOC(24) Badges :</b><br>
+ 🐝 <b>GSSOC(24) Badges :</b><br>
 <div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" height="80px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
@@ -46,8 +46,13 @@ Built a Learning app for deaf/mute person, convertion of sign-language to text/s
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px" height="80px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="80px" height="80px" /> -->
 </div>
-🪶<b>Hacktoberfest(24) Badges :</b><br>
-[![An image of @imsudiptaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imsudiptaa)](https://holopin.io/@imsudiptaa)
+<br>
+🌺<b>Hacktoberfest(24) Badges :</b><br>   
+<br>
+<a href="https://holopin.io/@imsudiptaa">
+    <img src="https://holopin.me/imsudiptaa" alt="An image of @imsudiptaa's Holopin badges, which is a link to view their full Holopin profile">
+</a>
+
 
 <!---
 imsudiptaa/imsudiptaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
