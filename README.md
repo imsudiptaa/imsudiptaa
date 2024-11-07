@@ -46,6 +46,8 @@ Built a Learning app for deaf/mute person, convertion of sign-language to text/s
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px" height="80px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="80px" height="80px" /> -->
 </div>
+🪶<b>Hacktoberfest(24) Badges :</b><br>
+[![An image of @imsudiptaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imsudiptaa)](https://holopin.io/@imsudiptaa)
 
 <!---
 imsudiptaa/imsudiptaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
