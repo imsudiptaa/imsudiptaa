@@ -1,38 +1,44 @@
-✨ <b>ABOUT ME :</b>
+<h1 align="center"> Hi there, I'm <a href="#" target="_blank">Sudipta Mandal</a> 🌟</h1>
+
+<p align="center">
+<!--   <a href="https://yourportfolio.com">Portfolio</a> •  -->
+  <a href="https://linkedin.com/in/imsudiptaa">LinkedIn</a> • 
+  <a href="imsudiptaa@gmail.com">Contact me</a>
+ 
+<!--   <a href="https://twitter.com/yourprofile">Twitter</a> •  -->
+<!--   <a href="https://yourwebsite.com">Website</a> •  -->
+<!--   <a href="https://google.com">Google Featured</a> •  -->
+
+</p>
+
 ---
 
-Hello! I’m <b>Sudipta Mandal</b>, a frontend web developer focused on mastering Full Stack Web Development to build smooth and user-friendly interfaces. 
-Right now, I’m working on <b>Web Development</b>,<b> Open Source </b>and learning <b>full stack web development</b>.
+### 👩🏻‍💻 About Me ✨ | Aspiring Full Stack Web Developer | Open-Source Contributor
+- 🌐 **Activity** &nbsp;-  Smart India Hackathon (August 2024), <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- GirlScript Summer of Code 2024 Extended, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Hacktoberfest 2024 Contributor 
+- 📅 **How to reach me**: [Email me](imsudiptaa@gmail.com) 
+- 💬 **Hobby**: Graphic Designing
 
-***
-⚡<b> HACKATHON :</b>
 ---
-- <b>Smart India Hackathon (August 2024)</b> </br>
-Built a Learning app for deaf/mute person, convertion of sign-language to text/speech & vice-versa.
-***
-🌟<b> OPEN SOURCE CONTRIBUTIONS :</b>
----
-- <b>Contributor</b> in Hacktoberfest
-- <b>Contributor</b> in GSSoC'24-EXTENDED
-***
-🚀 <b>TECH STACK :</b>
----
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+<b> 🛠️ Tech Stack :</b>
+- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- **Frameworks & Libraries**: ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+- **Tools and Platforms**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+-**Operating Systems**: ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Prolog AI](https://img.shields.io/badge/Prolog%20AI-3B2C9A?style=for-the-badge&logo=prolog&logoColor=white)
-***
-
-
- 🐝 <b>GSSOC(24) Badges :</b><br>
+---
+🚀 <b>GSSOC(24) Badges :</b><br>
 <div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" height="80px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
@@ -42,17 +48,42 @@ Built a Learning app for deaf/mute person, convertion of sign-language to text/s
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px" height="80px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" height="80px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/new-badge/Git%20Explorer.png" width="90px" height="90px" />
-
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px" height="80px" 
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="80px" height="80px" /> -->
-</div>
+ </div>
 <br>
-🌺<b>Hacktoberfest(24) Badges :</b><br>   
+⚡<b>Hacktoberfest(24) Badges :</b><br>   
 <br>
 <a href="https://holopin.io/@imsudiptaa">
     <img src="https://holopin.me/imsudiptaa" alt="An image of @imsudiptaa's Holopin badges, which is a link to view their full Holopin profile">
 </a>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<b> 📊 GitHub Stats & Streaks:</b> 
+<br> <br>
+![](https://github-readme-stats.vercel.app/api?username=imsudiptaa&theme=neon&include_all_commits=false&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imsudiptaa&theme=neon)](https://git.io/streak-stats)
+[![](https://visitcount.itsvg.in/api?id=imsudiptaa&icon=0&color=5)](https://visitcount.itsvg.in)
+
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=imsudiptaa&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)-->
+
+
+<!--<p align="center">
+  Do you want to connect for collaboration opportunities? ➡️ <a href="imsudiptaa@gmail.com">Contact Details</a>
+</p>-->
+
+
+
+
+
+
+
+
+ 
+
+<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px" height="80px" 
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="80px" height="80px" /> -->
+
 
 
 <!---
