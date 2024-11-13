@@ -35,7 +35,7 @@
 - **Tools and Platforms**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
--**Operating Systems**: ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+- **Operating Systems**: ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 🚀 <b>GSSOC(24) Badges :</b><br>
@@ -59,9 +59,18 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <b> 📊 GitHub Stats & Streaks:</b> 
 <br> <br>
-![](https://github-readme-stats.vercel.app/api?username=imsudiptaa&theme=neon&include_all_commits=false&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imsudiptaa&theme=neon)](https://git.io/streak-stats)
-[![](https://visitcount.itsvg.in/api?id=imsudiptaa&icon=0&color=5)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=imsudiptaa&theme=neon&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=imsudiptaa&theme=neon" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imsudiptaa&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)-->
