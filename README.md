@@ -16,7 +16,7 @@
 
 </p>
 
----
+
 ### 👩🏻‍💻 About Me ✨ | Aspiring Full Stack Web Developer | Open-Source Contributor
 <div style="display: flex; align-items: center;">
 <picture>
@@ -43,7 +43,7 @@
 </div>
 
 
----
+
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32">
