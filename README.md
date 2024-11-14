@@ -1,4 +1,9 @@
-<h1 align="center"> Hi there, I'm <a href="#" target="_blank">Sudipta Mandal</a> 🌟</h1>
+<h1 align="center"> Hi there, I'm <a href="#" target="_blank">Sudipta Mandal</a>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>
+</h1>
 
 <p align="center">
 <!--   <a href="https://yourportfolio.com">Portfolio</a> •  -->
@@ -12,17 +17,39 @@
 </p>
 
 ---
-
 ### 👩🏻‍💻 About Me ✨ | Aspiring Full Stack Web Developer | Open-Source Contributor
-- 🌐 **Activity** &nbsp;-<!--  Smart India Hackathon (August 2024), <br>-->
- GirlScript Summer of Code 2024 Extended, <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Hacktoberfest 2024 Contributor 
-- 📅 **How to reach me**: [Email ](imsudiptaa@gmail.com) 
-- 💬 **Hobby**: Graphic Designing
+<div style="display: flex; align-items: center;">
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="32" height="32">
+</picture>
+  <span style="margin-left: 8px; font-weight: bold;"> <b>Activity:</b></span>  &nbsp;- GirlScript Summer of Code 2024 Extended, <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Hacktoberfest 2024 Contributor
+</div>
+ <!--  Smart India Hackathon (August 2024), <br>-->
+   <div style="display: flex; align-items: center;">
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.gif" alt="🕊" width="32" height="32">
+</picture>
+  <span style="margin-left: 8px; font-weight: bold;"><b>How to reach me:</b></span> <a href="imsudiptaa@gmail.com">Email</a>
+</div>
+<!--- 📅 ****: [Email ](imsudiptaa@gmail.com) -->
+ <div style="display: flex; align-items: center;">
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.webp" type="image/webp"> 
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.gif" alt="🦄" width="32" height="32">
+  </picture>
+  <span style="margin-left: 8px; font-weight: bold;"><b>Hobby:</b></span> Graphic Designing
+</div>
+
 
 ---
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32">
+</picture> <b> Tech Stack :</b> 
+</br>
 
-<b> 🛠️ Tech Stack :</b>
 - **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +65,10 @@
 - **Operating Systems**: ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
-🚀 <b>GSSOC(24) Badges :</b><br>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
+</picture> <b>GSSOC(24) Badges :</b><br>
 <div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" height="80px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
@@ -50,7 +80,10 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/new-badge/Git%20Explorer.png" width="90px" height="90px" />
  </div>
 <br>
-⚡<b>Hacktoberfest(24) Badges :</b><br>   
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
+</picture><b>Hacktoberfest(24) Badges :</b><br>   
 <br>
 <a href="https://holopin.io/@imsudiptaa">
     <img src="https://holopin.me/imsudiptaa" alt="An image of @imsudiptaa's Holopin badges, which is a link to view their full Holopin profile">
