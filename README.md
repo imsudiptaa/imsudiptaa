@@ -14,10 +14,10 @@
 ---
 
 ### 👩🏻‍💻 About Me ✨ | Aspiring Full Stack Web Developer | Open-Source Contributor
-- 🌐 **Activity** &nbsp;-  Smart India Hackathon (August 2024), <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- GirlScript Summer of Code 2024 Extended, <br>
+- 🌐 **Activity** &nbsp;-<!--  Smart India Hackathon (August 2024), <br>-->
+ GirlScript Summer of Code 2024 Extended, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Hacktoberfest 2024 Contributor 
-- 📅 **How to reach me**: [Email me](imsudiptaa@gmail.com) 
+- 📅 **How to reach me**: [Email ](imsudiptaa@gmail.com) 
 - 💬 **Hobby**: Graphic Designing
 
 ---
