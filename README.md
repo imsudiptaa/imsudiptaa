@@ -90,7 +90,10 @@
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<b> 📊 GitHub Stats & Streaks:</b> 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32">
+</picture><b> GitHub Stats & Streaks:</b> 
 <br> <br>
 <table>
   <tr>
