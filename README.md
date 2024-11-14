@@ -107,6 +107,9 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imsudiptaa&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)-->
