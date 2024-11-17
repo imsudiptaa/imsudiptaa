@@ -6,6 +6,7 @@
 </h1>
 <p align="center">
 </p>
+
 ### 👩🏻‍💻 About Me ✨ | Aspiring Full Stack Web Developer | Open-Source Contributor
 <div style="display: flex; align-items: center;">
 <picture>
