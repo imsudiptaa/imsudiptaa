@@ -4,19 +4,8 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture>
 </h1>
-
 <p align="center">
-<!--   <a href="https://yourportfolio.com">Portfolio</a> •  -->
-  <a href="https://linkedin.com/in/imsudiptaa">LinkedIn</a> • 
-  <a href="imsudiptaa@gmail.com">Contact me</a>
- 
-<!--   <a href="https://twitter.com/yourprofile">Twitter</a> •  -->
-<!--   <a href="https://yourwebsite.com">Website</a> •  -->
-<!--   <a href="https://google.com">Google Featured</a> •  -->
-
 </p>
-
-
 ### 👩🏻‍💻 About Me ✨ | Aspiring Full Stack Web Developer | Open-Source Contributor
 <div style="display: flex; align-items: center;">
 <picture>
@@ -25,7 +14,6 @@
 </picture>
   <span style="margin-left: 8px; font-weight: bold;"> <b>Activity:</b></span>  &nbsp;- GirlScript Summer of Code 2024 Extended, <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Hacktoberfest 2024 Contributor
 </div>
- <!--  Smart India Hackathon (August 2024), <br>-->
    <div style="display: flex; align-items: center;">
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.webp" type="image/webp">
@@ -33,7 +21,6 @@
 </picture>
   <span style="margin-left: 8px; font-weight: bold;"><b>How to reach me:</b></span> <a href="imsudiptaa@gmail.com">Email</a>
 </div>
-<!--- 📅 ****: [Email ](imsudiptaa@gmail.com) -->
  <div style="display: flex; align-items: center;">
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.webp" type="image/webp"> 
@@ -41,9 +28,6 @@
   </picture>
   <span style="margin-left: 8px; font-weight: bold;"><b>Hobby:</b></span> Graphic Designing
 </div>
-
-
-
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32">
@@ -88,8 +72,6 @@
 <a href="https://holopin.io/@imsudiptaa">
     <img src="https://holopin.me/imsudiptaa" alt="An image of @imsudiptaa's Holopin badges, which is a link to view their full Holopin profile">
 </a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32">
@@ -110,31 +92,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
 </p>
-
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imsudiptaa&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)-->
-
-
-<!--<p align="center">
-  Do you want to connect for collaboration opportunities? ➡️ <a href="imsudiptaa@gmail.com">Contact Details</a>
-</p>-->
-
-
-
-
-
-
-
-
- 
-
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px" height="80px" 
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="80px" height="80px" /> -->
-
-
-
-<!---
-imsudiptaa/imsudiptaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
