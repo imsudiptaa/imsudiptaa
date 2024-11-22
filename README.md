@@ -1,18 +1,17 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=C252E1&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+Web+Developer;AI/ML Enthusiast;Open+Source+contributor" alt="Typing Animation">
-
-<div>
-  <img src="assets/animated.gif"/>
-</div>
-
-
-</div>
 <h1 align="center"> Hi there, I'm <a href="#" target="_blank">Sudipta Mandal</a>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture>
 </h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=C252E1&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+Web+Developer;AI/ML Enthusiast;Open+Source+contributor" alt="Typing Animation">
+</div>
+  
+<div>
+  <img  align="right" src="assets/animated.gif" width="540"/>
+</div>
 <!-- <p align="center">
   <a href="imsudiptaa@gmail.com">Contact me</a>
   <a href="https://www.linkedin.com/in/imsudiptaa/">LinkedIn</a>
