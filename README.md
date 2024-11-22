@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=C252E1&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+Web+Developer;AI/ML Enthusiast;Open+Source+contributor" alt="Typing Animation">
+
+
+
+
+</div>
 <h1 align="center"> Hi there, I'm <a href="#" target="_blank">Sudipta Mandal</a>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
@@ -7,7 +14,9 @@
 <p align="center">
 </p>
 
-### 👩🏻‍💻 About Me ✨ | Aspiring Full Stack Web Developer | Open-Source Contributor
+### 👩🏻‍💻 About Me ✨
+<p>-------------------------</p>
+ 
 <div style="display: flex; align-items: center;">
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" type="image/webp">
@@ -20,7 +29,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.gif" alt="🕊" width="32" height="32">
 </picture>
-  <span style="margin-left: 8px; font-weight: bold;"><b>How to reach me:</b></span> <a href="imsudiptaa@gmail.com">Email</a>
+  <span style="margin-left: 8px; font-weight: bold;"><b>How to reach me:</b></span> <a href="imsudiptaa@gmail.com">Email</a> 
 </div>
  <div style="display: flex; align-items: center;">
   <picture>
