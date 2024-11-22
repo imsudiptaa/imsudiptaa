@@ -25,7 +25,9 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="32" height="32">
 </picture>
-  <span style="margin-left: 8px; font-weight: bold;"> <b>Activity:</b></span>  &nbsp;- GirlScript Summer of Code 2024 Extended, <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Hacktoberfest 2024 Contributor
+  <span style="margin-left: 8px; font-weight: bold;"> <b>Activity:</b><br>
+  </span>  &nbsp;- GirlScript Summer of Code 2024 Extended, <br> &nbsp;- Hacktoberfest 2024 Contributor
+  </br>
 </div>
    <div style="display: flex; align-items: center;">
   <picture>
