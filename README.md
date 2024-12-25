@@ -34,7 +34,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.gif" alt="🕊" width="32" height="32">
 </picture>
-  <span style="margin-left: 8px; font-weight: bold;"><b>✉ How to reach me:</b></span> <a href="imsudiptaa@gmail.com">Email</a> -
+  <span style="margin-left: 8px; font-weight: bold;"><b>How to reach me:</b></span> <a href="imsudiptaa@gmail.com">Email</a> -
      <a href="https://www.linkedin.com/in/imsudiptaa/"> LinkedIn </a>
 </div>
  <div style="display: flex; align-items: center;">
