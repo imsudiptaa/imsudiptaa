@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="#" target="_blank">Sudipta Mandal</a>
+<h1 align="center"> Hi there, I'm <a href="#" target="_blank">Sudipta Mandal 🌟 </a>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif#gh-light-mode-only" alt="🌟" width="32" height="32">
@@ -25,7 +25,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="32" height="32">
 </picture>
-  <span style="margin-left: 8px; font-weight: bold;"> <b>Activity:</b><br>
+  <span style="margin-left: 8px; font-weight: bold;"> <b>🌏 Activity:</b><br>
   </span>  &nbsp;- GirlScript Summer of Code 2024 Extended, <br> &nbsp;- Hacktoberfest 2024 Contributor
   </br>
 </div>
@@ -34,7 +34,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.gif" alt="🕊" width="32" height="32">
 </picture>
-  <span style="margin-left: 8px; font-weight: bold;"><b>How to reach me:</b></span> <a href="imsudiptaa@gmail.com">Email</a> -
+  <span style="margin-left: 8px; font-weight: bold;"><b>✉ How to reach me:</b></span> <a href="imsudiptaa@gmail.com">Email</a> -
      <a href="https://www.linkedin.com/in/imsudiptaa/"> LinkedIn </a>
 </div>
  <div style="display: flex; align-items: center;">
@@ -42,12 +42,12 @@
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.webp" type="image/webp"> 
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.gif" alt="🦄" width="32" height="32">
   </picture>
-  <span style="margin-left: 8px; font-weight: bold;"><b>Hobby:</b></span> Graphic Designing
+  <span style="margin-left: 8px; font-weight: bold;"><b>🖌 Hobby:</b></span> Graphic Designing
 </div>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32">
-</picture> <b> Tech Stack :</b> 
+</picture> <b>🤖 Tech Stack :</b> 
 </br>
 </br>
 
@@ -69,14 +69,14 @@
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
-</picture><b>Achievements :</b>
+</picture><b>🔥 Achievements :</b>
 <div>
  <img src="assets/AWS Academy Cloud Foundations Badge.png" width="150"/>   
 </div>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
-</picture> <b>GSSOC(24) Badges :</b><br>
+</picture> <b>🚀 GSSOC(24) Badges :</b><br>
 <div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" height="80px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
@@ -91,7 +91,7 @@
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
-</picture><b>Hacktoberfest(24) Badges :</b><br>   
+</picture><b>⚡ Hacktoberfest(24) Badges :</b><br>   
 <br>
 <a href="https://holopin.io/@imsudiptaa">
     <img src="https://holopin.me/imsudiptaa" alt="An image of @imsudiptaa's Holopin badges, which is a link to view their full Holopin profile">
@@ -99,7 +99,7 @@
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32">
-</picture><b> GitHub Stats & Streaks:</b> 
+</picture><b>🔹 GitHub Stats & Streaks:</b> 
 <br> <br>
 <table>
   <tr>
