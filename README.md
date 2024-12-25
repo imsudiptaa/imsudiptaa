@@ -70,7 +70,9 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
 </picture><b>Achievements :</b>
+
 <div>
+ <img src="assets/Pieces Badge.png" width="150"/>
  <img src="assets/AWS Academy Cloud Foundations Badge.png" width="150"/>   
 </div>
 <picture>
