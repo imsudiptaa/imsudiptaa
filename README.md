@@ -71,7 +71,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
 </picture><b>Achievements :</b>
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<div style='display:flex; align-items:center; gap: 10px;'>
   <a href="#">
    <img src="assets/AWS Academy Cloud Foundations Badge.png" width="150"/>
   <a href="#">
