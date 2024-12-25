@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm <a href="#" target="_blank">Sudipta Mandal</a>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif#gh-light-mode-only" alt="🌟" width="32" height="32">
 </picture>
 </h1>
 
