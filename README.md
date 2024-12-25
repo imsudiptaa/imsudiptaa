@@ -71,9 +71,11 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
 </picture><b>Achievements :</b>
 
-<div>
- <img src="assets/Pieces Badge.png" width="150"/>
- <img src="assets/AWS Academy Cloud Foundations Badge.png" width="150"/>   
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <a href="#">
+   <img src="assets/AWS Academy Cloud Foundations Badge.png" width="150"/>
+  <a href="#">
+<!--    <img src="assets/Pieces Badge.png" width="100"/>  -->
 </div>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
