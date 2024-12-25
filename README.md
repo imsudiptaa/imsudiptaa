@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=C252E1&center=true&vCenter=true&width=500&height=100&lines=I'm+a+Proactive+Learner;Full+Stack+Web+Developer;AI/ML Enthusiast;Open+Source+contributor" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=C252E1&center=true&vCenter=true&width=500&height=100&lines=I'm+a+Proactive+Learner;Full+Stack+Web+Developer;AI/ML Enthusiast;Open+Source+contributor">
 </div>
   
 <div>
