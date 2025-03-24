@@ -108,6 +108,19 @@
     <picture>
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
+    </picture> <b>Hacktoberfest(24) Badges ⬇️</b>
+  </summary>
+  <br>
+  <p align="center">
+    <a href="#">
+      <img src="assets/Hacktoberfest Badges.png">
+    </a>
+    </details>
+<details>
+  <summary>
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
     </picture> <b>Apertre 2.0 Badges ⬇️</b>
   </summary>
   <br>
