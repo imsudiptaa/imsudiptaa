@@ -1,0 +1,261 @@
+# app.py
+import os
+import json
+import librosa
+import cv2
+import numpy as np
+import tensorflow as tf
+from flask import Flask, request, Response, send_from_directory
+from werkzeug.utils import secure_filename
+import base64
+from warnings import filterwarnings
+
+filterwarnings('ignore')
+
+app = Flask(__name__)
+
+model = tf.keras.models.load_model('model.h5')
+with open('prediction.json', 'r') as f:
+    prediction_dict = json.load(f)
+
+UPLOAD_FOLDER = 'uploads'
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+@app.route('/uploads/<filename>')
+def uploaded_file(filename):
+    return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
+
+def predict_audio(file_path):
+    audio, sr = librosa.load(file_path)
+    mfcc = librosa.feature.mfcc(y=audio, sr=sr, n_mfcc=40)
+    mfcc = np.mean(mfcc, axis=1)
+    mfcc = np.expand_dims(mfcc, axis=0)
+    mfcc = np.expand_dims(mfcc, axis=2)
+    tensor = tf.convert_to_tensor(mfcc, dtype=tf.float32)
+
+    pred = model.predict(tensor)
+    label_index = np.argmax(pred)
+    confidence = round(float(np.max(pred)) * 100, 2)
+    class_name = prediction_dict[str(label_index)]
+
+    return class_name, confidence
+
+def encode_image(path):
+    img = cv2.imread(path)
+    img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+    img = cv2.resize(img, (350, 300))
+    _, buffer = cv2.imencode('.jpg', img)
+    return f"data:image/jpeg;base64,{base64.b64encode(buffer).decode()}"
+
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    result_html = ""
+    filename = ""
+    if request.method == 'POST':
+        file = request.files.get('audio')
+        if file and file.filename != '':
+            filename = secure_filename(file.filename)
+            filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+            file.save(filepath)
+
+            predicted_class, confidence = predict_audio(filepath)
+            image_path = os.path.join('Inference_Images', f'{predicted_class}.jpg')
+            image_encoded = encode_image(image_path)
+
+            result_html = f"""
+                <div class="result">
+                    <h3><i class="fas fa-volume-up"></i> Uploaded Audio</h3>
+                    <audio controls>
+                        <source src="/uploads/{filename}" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                    <h2><i class="fas fa-percentage"></i> {confidence:.2f}% Match</h2>
+                    <img src="{image_encoded}" alt="{predicted_class}" />
+                    <h1>{predicted_class}</h1>
+                </div>
+            """
+
+    return Response(f"""
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Bird Sound Classifier</title>
+            <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+            <style>
+                html, body {{
+                    margin: 0;
+                    padding: 0;
+                    min-height: 100%;
+                    font-family: 'Poppins', sans-serif;
+                    background: #0f172a;
+                    color: #e2e8f0;
+                    overflow-x: hidden;
+                }}
+                body {{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-direction: column;
+                    padding: 30px 10px;
+                    position: relative;
+                }}
+                #vanta-bg {{
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    z-index: -1;
+                }}
+                .container {{
+                    margin-top: 20px;
+                    background-color: #1e293b;
+                    padding: 40px;
+                    border-radius: 15px;
+                    box-shadow: 0 0 25px rgba(0,0,0,0.3);
+                    width: 90%;
+                    max-width: 550px;
+                    text-align: center;
+                }}
+                h1 {{
+                    color: #38bdf8;
+                    margin-bottom: 20px;
+                    font-size: 2em;
+                }}
+                form {{
+                    margin-top: 20px;
+                }}
+                input[type="file"] {{
+                    padding: 10px;
+                    background-color: #334155;
+                    color: #e2e8f0;
+                    border-radius: 8px;
+                    border: 1px solid #475569;
+                    width: 100%;
+                    margin-bottom: 15px;
+                }}
+                input[type="submit"], button {{
+                    background-color: #0ea5e9;
+                    color: white;
+                    padding: 12px 25px;
+                    margin: 5px;
+                    border: none;
+                    border-radius: 8px;
+                    font-weight: bold;
+                    cursor: pointer;
+                    transition: background 0.3s;
+                }}
+                input[type="submit"]:hover, button:hover {{
+                    background-color: #0284c7;
+                }}
+                .result {{
+                    margin-top: 30px;
+                    background-color: #334155;
+                    padding: 20px;
+                    border-radius: 15px;
+                    animation: fadeIn 1s ease-in-out;
+                }}
+                .result img {{
+                    margin-top: 20px;
+                    border-radius: 15px;
+                    box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+                    max-width: 100%;
+                    height: auto;
+                }}
+                .result h2 {{
+                    color: #7dd3fc;
+                }}
+                .result h1 {{
+                    color: #f1f5f9;
+                    margin-top: 10px;
+                }}
+                .result h3 {{
+                    color: #bae6fd;
+                    margin-top: 10px;
+                }}
+                #loading {{
+                    display: none;
+                    margin-top: 20px;
+                    color: #38bdf8;
+                }}
+                @keyframes fadeIn {{
+                    from {{ opacity: 0; }}
+                    to {{ opacity: 1; }}
+                }}
+                .bird {{
+                    position: absolute;
+                    width: 40px;
+                    top: 100px;
+                    animation: flyAcross 20s linear infinite;
+                }}
+                .bird:nth-child(2) {{
+                    top: 180px;
+                    animation-delay: 5s;
+                }}
+                .bird:nth-child(3) {{
+                    top: 250px;
+                    animation-delay: 10s;
+                }}
+                @keyframes flyAcross {{
+                    0% {{ left: -60px; transform: scaleX(1); }}
+                    50% {{ transform: scaleX(1); }}
+                    100% {{ left: 100vw; transform: scaleX(1); }}
+                }}
+            </style>
+        </head>
+        <body>
+            <div id="vanta-bg"></div>
+            <div id="particles-js"></div>
+            <div class="container">
+                <h1>Bird Sound Classifier</h1>
+                <form id="uploadForm" method="POST" enctype="multipart/form-data">
+                    <input type="file" name="audio" accept=".wav, .mp3" required><br>
+                    <input type="submit" value="Classify">
+                    <button type="button" onclick="resetForm()">Reset</button>
+                </form>
+                <div id="loading">
+                    <p><i class="fas fa-spinner fa-spin"></i> Processing... Please wait</p>
+                </div>
+                <div id="resultContainer">{result_html}</div>
+            </div>
+
+            <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.birds.min.js"></script>
+            <script>
+                VANTA.BIRDS({{
+                    el: "#vanta-bg",
+                    mouseControls: true,
+                    touchControls: true,
+                    gyroControls: false,
+                    minHeight: 200.00,
+                    minWidth: 200.00,
+                    scale: 1.00,
+                    scaleMobile: 1.00,
+                    backgroundColor: 0x0f172a,
+                    color1: 0x38bdf8,
+                    color2: 0x3b82f6,
+                    wingSpan: 20.00,
+                    speedLimit: 3.00,
+                    separation: 30.00,
+                    alignment: 20.00,
+                    cohesion: 20.00,
+                    quantity: 3.00
+                }});
+                document.getElementById("uploadForm").addEventListener("submit", function () {{
+                    document.getElementById("loading").style.display = "block";
+                }});
+                function resetForm() {{
+                    document.getElementById("uploadForm").reset();
+                    document.getElementById("resultContainer").innerHTML = "";
+                    document.getElementById("loading").style.display = "none";
+                }}
+            </script>
+        </body>
+        </html>
+    """, mimetype='text/html')
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=7860, debug=True)
