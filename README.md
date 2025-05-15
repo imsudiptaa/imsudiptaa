@@ -6,8 +6,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=C252E1&center=true&vCenter=true&width=500&height=100&lines=I'm+a+Proactive+Learner;Full+Stack+Web+Developer;AI/ML Enthusiast;Open+Source+contributor">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=C252E1&center=true&vCenter=true&width=500&height=100&lines=I'm+a+Proactive+Learner;Full+Stack+Web+Developer;AI/ML+Enthusiast;Open+Source+Contributor" />
 </div>
+
   
 <div>
   <img  align="right" src="assets/animated.gif" width="540"/>
@@ -26,7 +27,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="32" height="32">
 </picture>
   <span style="margin-left: 8px; font-weight: bold;"> <b>Activity:</b><br>
-  </span>  &nbsp;- GirlScript Summer of Code 2024 Extended, <br> &nbsp;- Hacktoberfest 2024 Contributor
+  </span>  &nbsp;- GSSoC'2024 Extended, Hacktoberfest'24 <br> &nbsp;- Apertre 2.0, Open source Contributor
   </br>
 </div>
    <div style="display: flex; align-items: center;">
